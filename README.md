@@ -12,7 +12,6 @@ This repository contains five 8086 Assembly language programs, each demonstratin
   - [Weighted Sum Calculation](#weighted-sum-calculation)
   - [Integer Input & Error Handling](#integer-input--error-handling)
   - [Tic-Tac-Toe Game](#tic-tac-toe-game)
-- [License](#license)
 
 ## Requirements
 - MASM/TASM assembler
